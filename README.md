@@ -1,6 +1,3 @@
-Here’s an updated `README.md` focusing on testing **only transactions** with `curl`:
-
-```markdown
 # CardDemo Application
 
 CardDemo is a Spring Boot-based application designed to manage and process transactions, merchants, and card accounts. This updated guide focuses on **testing transactions** using `curl` commands.
