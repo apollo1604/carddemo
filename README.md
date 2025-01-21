@@ -18,8 +18,8 @@ CardDemo is a Spring Boot-based application designed to manage and process trans
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/card-demo.git
-cd card-demo
+git clone https://github.com/apollo1604/carddemo.git
+cd carddemo
 ```
 
 ### Set Up the Database
